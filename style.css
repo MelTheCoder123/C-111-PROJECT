@@ -1,0 +1,40 @@
+body
+{
+  color: white;
+  background: #ee0924;
+}
+
+#camera 
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+
+span
+{
+  font-size: 30px;
+}
+
+#result
+{
+    border: 2px dashed black;
+    width: 370px;
+    height: 310px; 
+    position: center;
+}
+
+.hand_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
